@@ -1,0 +1,18 @@
+{
+  "incidents": [
+    {
+      "id": "d863ff96-c80b-41df-a76e-73bdc5dcc05a",
+      "title": "Payment Service Crash",
+      "description": "TypeError: Cannot read properties of undefined (reading 'transactionId')\nat PaymentController.js:45",
+      "error": "TypeError: Cannot read properties of undefined (reading 'transactionId')\nat PaymentController.js:45",
+      "severity": "high",
+      "environment": "production",
+      "repository": "demo-payment-service",
+      "branch": "main",
+      "status": "created",
+      "createdAt": "2026-10-06T17:37:08.623Z"
+    }
+  ],
+  "repositories": [],
+  "reports": []
+}
